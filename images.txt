@@ -7,3 +7,4 @@ xhofe/alist:latest
 jellyfin/jellyfin
 xiaoyaliu/alist
 --platform=linux/arm/v7 xiaoyaliu/alist
+--platform=linux/arm/v7 xhofe/alist:latest
